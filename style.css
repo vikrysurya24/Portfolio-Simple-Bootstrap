@@ -1,12 +1,30 @@
 .jumbotron{
     padding-top: 6rem;
-    background-color: #be73ff;
+    background-color: #141E61;
 }
 
 #projects{
-    background-color: #be73ff;
+    background-color: #141E61;
 }
 
 section{
     padding-top: 5rem;
+}
+
+body{
+    background-color: #787a91;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#about {
+    margin-top: -5rem;
+}
+
+a{
+    color: #141E61;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
 }
